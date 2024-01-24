@@ -1,0 +1,1 @@
+A scalar is a single numeric quantity, fundamental in machine learning for computations, and deep learning for things like learning rates and loss values.
